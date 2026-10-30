@@ -14,6 +14,10 @@ Aplicação React da atividade da **Aula 09 — Projeto React 02** — por **Gus
 
 ---
 
+**Aplicação online:** https://react2-bice-sigma.vercel.app
+
+---
+
 ## 📝 Descrição
 
 Aplicação React que reúne **os cinco conceitos estudados na Aula 09** — State e useState,
